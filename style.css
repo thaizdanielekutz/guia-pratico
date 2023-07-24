@@ -50,6 +50,7 @@ header h1 {
 
 .card:hover {
   background-color: #144563;
+  transition: 3s;
 }
 
 .card h2 {
