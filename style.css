@@ -54,6 +54,7 @@ header h1 {
   transform: rotateY(-180deg);
   backface-visibility: hidden;
 }
+
 .card h2 {
   text-align: center;
   color: white;
