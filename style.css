@@ -49,7 +49,6 @@ header h1 {
 }
 
 .card:hover {
-  background-color: #144563;
   border: 3px solid white;
 }
 
