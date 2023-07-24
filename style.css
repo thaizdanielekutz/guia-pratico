@@ -50,6 +50,7 @@ header h1 {
 
 .card:hover {
   border: 3px solid white;
+  background-color: #205474;
 }
 
 .card h2 {
